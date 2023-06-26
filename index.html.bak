@@ -318,16 +318,26 @@
     <!-- <div class="portfolio-left-dec">
       <img src="assets/images/portfolio-left-dec.png" alt="">
     </div> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 offset-lg-3">
+          <div class="section-heading">
+            <h2>Our <em>Clients</em> <span></span></h2>
+            <span> </span>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-lg-12">
           <div class="owl-carousel owl-portfolio">
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-iimkozhikode.jpg" alt="">
+                <img src="assets/images/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a rel="sponsored" href="#" target="_parent"><h4>IIM - Kozhikode</h4></a>
+                    <a rel="sponsored" href="#" target="_parent"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -335,10 +345,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-family-health-center.jpg" alt="">
+                <img src="assets/images/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Family Health Center</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -346,10 +356,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-ktdc.jpg" alt="">
+                <img src="assets/images/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a rel="sponsored" href="#" target="_parent"><h4>KTDC</h4></a>
+                    <a rel="sponsored" href="#" target="_parent"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -357,10 +367,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-karshika-karmasena.jpg" alt="">
+                <img src="assets/images/portfolio-04.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Karshika Karmasena</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -368,10 +378,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-bobby-chemmanur.jpg" alt="">
+                <img src="assets/images/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Bobby Chemmanur</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -379,10 +389,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-makkah-hypermarket.jpg" alt="">
+                <img src="assets/images/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Makkah Hypermarket</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -390,10 +400,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-blue-nile-hotel.jpg" alt="">
+                <img src="assets/images/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Blue Nile 4* Hotel</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -401,21 +411,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-famous-bakery.jpg" alt="">
+                <img src="assets/images/portfolio-04.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Famous Bakery</h4></a>
-                    <span>Soon</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-             <div class="item">
-              <div class="thumb">
-                <img src="assets/images/client-sunday-mattress.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="inner-content">
-                    <a href="#"><h4>Sunday Mattress</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -423,10 +422,10 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-alhind.jpg" alt="">
+                <img src="assets/images/portfolio-01.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Alhind</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -434,34 +433,32 @@
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-al-huda.jpg" alt="">
+                <img src="assets/images/portfolio-02.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Al Huda</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
               </div>
-			  
-            </div>
-			<div class="item">
-              <div class="thumb">
-                <img src="assets/images/client-sree-gokulam.jpg" alt="">
-                <div class="hover-effect">
-                  <div class="inner-content">
-                    <a href="#"><h4>Sree Gokulam</h4></a>
-                    <span>Soon</span>
-                  </div>
-                </div>
-              </div>
-			  
             </div>
             <div class="item">
               <div class="thumb">
-                <img src="assets/images/client-hilite.jpg" alt="">
+                <img src="assets/images/portfolio-03.jpg" alt="">
                 <div class="hover-effect">
                   <div class="inner-content">
-                    <a href="#"><h4>Hi lite</h4></a>
+                    <a href="#"><h4>Updating</h4></a>
+                    <span>Soon</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="thumb">
+                <img src="assets/images/portfolio-04.jpg" alt="">
+                <div class="hover-effect">
+                  <div class="inner-content">
+                    <a href="#"><h4>Updating</h4></a>
                     <span>Soon</span>
                   </div>
                 </div>
@@ -472,6 +469,7 @@
       </div>
     </div>
   </div>
+
  <!--  <div id="pricing" class="pricing-tables">
     <div class="tables-left-dec">
       <img src="assets/images/tables-left-dec.png" alt="">
